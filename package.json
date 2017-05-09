@@ -1,0 +1,12 @@
+{
+  "name": "ranking-mozillians-crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "crawler": "^1.0.4",
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  }
+}
